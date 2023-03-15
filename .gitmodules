@@ -3,6 +3,21 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesComm"]
+	path = BayesComm
+	url = https://github.com/goldingn/bayescomm
+	shallow = true
+	registered = true
+[submodule "default"]
+	path = default
+	url = https://github.com/goldingn/default
+	shallow = true
+	registered = true
+[submodule "pop"]
+	path = pop
+	url = https://github.com/goldingn/pop
+	shallow = true
+	registered = true
 [submodule "versions"]
 	path = versions
 	url = https://github.com/goldingn/versions

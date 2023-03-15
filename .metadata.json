@@ -1,5 +1,17 @@
 [
   {
+    "package": "BayesComm",
+    "oncran": true
+  },
+  {
+    "package": "default",
+    "oncran": true
+  },
+  {
+    "package": "pop",
+    "oncran": true
+  },
+  {
     "package": "versions",
     "oncran": true
   }
