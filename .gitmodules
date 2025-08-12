@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "BayesComm"]
-	path = BayesComm
-	url = https://github.com/goldingn/bayescomm
 [submodule "default"]
 	path = default
 	url = https://github.com/goldingn/default
